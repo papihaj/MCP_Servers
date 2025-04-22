@@ -1,0 +1,37 @@
+month,type,category,source,amount,date,description
+2025-04,income,Salary,,5000.00,2025-04-01,Monthly salary
+2025-04,income,Freelance,,1200.00,2025-04-05,Freelance project payment
+2025-04,expense,Food,Whole Foods,85.50,2025-04-03,Grocery shopping
+2025-04,expense,Coffee,Starbucks,6.75,2025-04-07,Morning latte
+2025-04,expense,Dining,Restaurant,45.30,2025-04-10,Dinner with friends
+2025-04,expense,Transport,Uber,22.10,2025-04-12,Ride to airport
+2025-04,expense,Rent,,1800.00,2025-04-01,Monthly rent payment
+2025-04,expense,Electronics,Best Buy,299.99,2025-04-15,New headphones
+2025-04,expense,Groceries,Supermarket,120.25,2025-04-18,Weekly groceries
+2025-04,expense,Entertainment,Cinema,18.50,2025-04-20,Movie tickets
+2025-04,expense,Healthcare,Pharmacy,35.00,2025-04-22,Prescription
+2025-04,expense,Travel,Airline tickets,450.00,2025-04-25,Flight booking
+2025-03,income,Salary,,5000.00,2025-03-01,Monthly salary
+2025-03,income,Freelance,,800.00,2025-03-06,Freelance project payment
+2025-03,expense,Food,Trader Joe's,90.20,2025-03-04,Grocery shopping
+2025-03,expense,Coffee,Peet's Coffee,5.50,2025-03-08,Coffee break
+2025-03,expense,Dining,Food delivery,32.80,2025-03-11,Takeout dinner
+2025-03,expense,Transport,Public transit,15.00,2025-03-13,Monthly pass
+2025-03,expense,Rent,,1800.00,2025-03-01,Monthly rent payment
+2025-03,expense,Shopping,Amazon,75.45,2025-03-16,Online purchase
+2025-03,expense,Groceries,Farmer's market,65.30,2025-03-19,Fresh produce
+2025-03,expense,Entertainment,Streaming service,14.99,2025-03-21,Subscription
+2025-03,expense,Fitness,Gym membership,50.00,2025-03-23,Gym fee
+2025-03,expense,Travel,Hotel booking,220.00,2025-03-26,Hotel stay
+2025-02,income,Salary,,5000.00,2025-02-01,Monthly salary
+2025-02,income,Freelance,,950.00,2025-02-04,Freelance project payment
+2025-02,expense,Food,Costco,110.75,2025-02-02,Bulk groceries
+2025-02,expense,Coffee,Local cafe,7.25,2025-02-06,Cappuccino
+2025-02,expense,Dining,Business dinner,80.00,2025-02-09,Client meeting
+2025-02,expense,Transport,Gas station,40.00,2025-02-12,Fuel
+2025-02,expense,Rent,,1800.00,2025-02-01,Monthly rent payment
+2025-02,expense,Electronics,Apple Store,850.00,2025-02-15,New phone
+2025-02,expense,Groceries,Supermarket,95.60,2025-02-18,Weekly groceries
+2025-02,expense,Entertainment,Concert,65.00,2025-02-20,Live music event
+2025-02,expense,Healthcare,Doctor visit,120.00,2025-02-22,Checkup
+2025-02,expense,Fitness,Yoga studio,45.00,2025-02-25,Yoga class
